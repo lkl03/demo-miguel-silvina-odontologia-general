@@ -1,2 +1,7 @@
-# demo-miguel-silvina-odontologia-general
-Demo web para Miguel Silvina Odontologia General — diseñada por eterlab.
+# Miguel Silvina Odontologia General
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
